@@ -45,8 +45,8 @@
 }
 @media screen and (max-width: 769px) {
     #posts {
-        grid-gap: .5rem !important;
-        justify-content: space-around !important;
+        grid-gap: 6rem !important;
+        justify-content: start !important;
     }
 }
 @media screen and (max-width: 616px) {
