@@ -11,7 +11,7 @@ function NavBar() {
                         <NavLink className="mr-15" exact to="/Boovies">Home</NavLink>
                     </li>
                     <li>
-                        <NavLink className="mr-15" exact to="/MoviesList">Movies</NavLink>
+                        <NavLink className="mr-15" exact to="/Boovies/MoviesList">Movies</NavLink>
                     </li>
                     {/* <li>
                         <NavLink className="mr-15" exact to="/User">User</NavLink>
