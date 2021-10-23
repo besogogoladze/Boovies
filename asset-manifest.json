@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Boovies/static/css/main.7f90be12.chunk.css",
+    "main.css": "/Boovies/static/css/main.54ac168e.chunk.css",
     "main.js": "/Boovies/static/js/main.bcbfd5ef.chunk.js",
     "main.js.map": "/Boovies/static/js/main.bcbfd5ef.chunk.js.map",
     "runtime-main.js": "/Boovies/static/js/runtime-main.7f79e204.js",
@@ -11,10 +11,10 @@
     "static/js/3.68bf328e.chunk.js": "/Boovies/static/js/3.68bf328e.chunk.js",
     "static/js/3.68bf328e.chunk.js.map": "/Boovies/static/js/3.68bf328e.chunk.js.map",
     "index.html": "/Boovies/index.html",
-    "precache-manifest.f79c14cdbf82c506a7c5de6a0f394e4c.js": "/Boovies/precache-manifest.f79c14cdbf82c506a7c5de6a0f394e4c.js",
+    "precache-manifest.0b78db75eb1a72f6746a3c61fd1b6280.js": "/Boovies/precache-manifest.0b78db75eb1a72f6746a3c61fd1b6280.js",
     "service-worker.js": "/Boovies/service-worker.js",
     "static/css/2.9b167a4e.chunk.css.map": "/Boovies/static/css/2.9b167a4e.chunk.css.map",
-    "static/css/main.7f90be12.chunk.css.map": "/Boovies/static/css/main.7f90be12.chunk.css.map",
+    "static/css/main.54ac168e.chunk.css.map": "/Boovies/static/css/main.54ac168e.chunk.css.map",
     "static/js/2.56a5313a.chunk.js.LICENSE.txt": "/Boovies/static/js/2.56a5313a.chunk.js.LICENSE.txt",
     "static/media/Logo.jpg": "/Boovies/static/media/Logo.afab6a33.jpg",
     "static/media/slick-theme.css": "/Boovies/static/media/slick.f97e3bbf.svg"
@@ -23,7 +23,7 @@
     "static/js/runtime-main.7f79e204.js",
     "static/css/2.9b167a4e.chunk.css",
     "static/js/2.56a5313a.chunk.js",
-    "static/css/main.7f90be12.chunk.css",
+    "static/css/main.54ac168e.chunk.css",
     "static/js/main.bcbfd5ef.chunk.js"
   ]
 }
