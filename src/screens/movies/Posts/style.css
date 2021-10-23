@@ -57,6 +57,7 @@
     position: absolute;
     background-color: #0003;
     color: #fff;
+    opacity: unset !important;
 }
 .description-hidden h1 {
     padding: 10px !important;
