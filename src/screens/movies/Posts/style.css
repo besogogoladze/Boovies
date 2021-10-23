@@ -20,7 +20,7 @@
     color: #fff;
     width: 208px;
     height: 320px;
-    position: absolute;
+    /* position: absolute; */
     border-radius: 5%;
 }
 @keyframes identifier {
