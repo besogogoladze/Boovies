@@ -1,0 +1,34 @@
+.heigh-500 {
+    height: 500px !important;
+}
+.text-align-webkit-center {
+    text-align: -webkit-center;
+}
+.carousel-control-next-icon {
+    background-color: #198754;
+    border-radius: 50px;
+}
+.carousel-control-prev-icon {
+    background-color: #198754;
+    border-radius: 50px;
+}
+.carousel-indicators .active {
+    background-color: #198754 !important;
+}
+#homeSection1-1 {
+    position: relative;
+    background-image: url("https://images.ctfassets.net/hrltx12pl8hq/8MpEm5OxWXiNqLvWzCYpW/24f02cfe391aa8f25845de858982d449/shutterstock_749707636__1__copy.jpg?fit=fill&w=840&h=350");
+    background-size: contain;  
+}
+.h-fit {
+    height: fit-content;
+}
+.white-space{
+    white-space: pre;
+}
+.zoom {
+    transition: transform .2s;
+}
+.zoom:hover {
+    transform: scale(1.1);
+}

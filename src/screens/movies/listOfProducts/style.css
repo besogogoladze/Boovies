@@ -1,0 +1,69 @@
+
+.MuiButton-root {
+    color: #fff !important;
+    background-color: rgb(42, 41, 42) !important;
+}
+.Mui-disabled {
+    background-color: rgb(141, 135, 135) !important;
+}
+#post:last-child {
+    margin: 160px !important;
+}
+
+@media screen and (max-width: 1200px) {
+    #posts {
+        grid-gap: 2rem !important;
+    }
+    .postImg {
+        width: 20% !important;
+    }
+}
+@media screen and (max-width: 1050px) {
+    #posts {
+        grid-gap: 1rem !important;
+    }
+}
+@media screen and (max-width: 1000px) {
+    #posts {
+        grid-gap: .5rem !important;
+    }
+}
+@media screen and (max-width: 990px) {
+    #posts {
+        grid-gap: 2rem !important;
+    }
+}
+@media screen and (max-width: 808px) {
+    #posts {
+        grid-gap: 1rem !important;
+    }
+}
+@media screen and (max-width: 776px) {
+    #posts {
+        grid-gap: .5rem !important;
+    }
+}
+@media screen and (max-width: 769px) {
+    #posts {
+        grid-gap: .5rem !important;
+        justify-content: space-around !important;
+    }
+}
+@media screen and (max-width: 616px) {
+    #posts {
+        justify-content: space-around !important;
+    }
+    #listOfProducts {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+}
+@media screen and (max-width: 500px) {
+    #posts {
+        justify-content: space-around !important;
+    }
+    #listOfProducts {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+}

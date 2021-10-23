@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none !important;
+    text-decoration: none !important;
+}
+h1 {
+    font-size: 1.2rem !important;
+}
+h2 {
+    font-size: 1.1rem !important;
+}
+h3 {
+    font-size: 1rem !important;
+}
+h4 {
+    font-size: .9rem !important;
+}
+h5 {
+    font-size: .8rem !important;
+}
+h6 {
+    font-size: .7rem !important;
+}
+p {
+    font-size: .7rem;
+}
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background-color: #30343c;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #198754; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #198754; 
+}

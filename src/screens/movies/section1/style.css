@@ -1,0 +1,15 @@
+.w-300 {
+    width: 300px;
+}
+.w-500 {
+    width: 500px;
+}
+.btn-primary {
+    color: unset !important;
+    background-color: unset !important;
+    border-color: unset !important;
+}
+.color-black {
+    color: #fff !important;
+    background-color: #000 !important;
+}

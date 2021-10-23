@@ -1,0 +1,22 @@
+.search {
+    align-self: center;
+    justify-self: flex-end;
+}
+.MuiOutlinedInput-notchedOutline {
+    border-color: #fff !important;
+}
+#free-solo-2-demo-label {
+    color: #fff !important;
+}
+#free-solo-2-demo {
+    color: #fff !important;
+}
+.MuiAutocomplete-endAdornment {
+    color: #fff !important;
+}
+.MuiInputLabel-outlined.MuiInputLabel-shrink {
+    transform: translate(14px, -10px) scale(0.75) !important;
+    padding: 0 2px;
+    z-index: 9999;
+    background-color: #198754;
+}

@@ -1,0 +1,31 @@
+.header {
+    height: 100px;
+    padding: 0 5%;
+    background-color: #121316;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: stretch;
+    align-items: center;
+    border-bottom: #01927c 3px solid;
+}
+.logo {
+    width: 100px; 
+    padding: 15px;
+}
+.header nav {
+    padding: 0 5%;
+    width: 20%;
+}
+.header nav ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+}
+.navbar-search {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
