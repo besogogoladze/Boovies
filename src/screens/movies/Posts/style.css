@@ -60,7 +60,7 @@
 }
 .description-hidden h1 {
     padding: 10px !important;
-    positon: absolute;
+    position: absolute;
 }
 .from-down {
     animation: identifier .5s ease-in-out;
