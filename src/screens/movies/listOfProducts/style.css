@@ -14,9 +14,6 @@
     #posts {
         grid-gap: 2rem !important;
     }
-    .postImg {
-        width: 20% !important;
-    }
 }
 @media screen and (max-width: 1050px) {
     #posts {
