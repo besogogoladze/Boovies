@@ -16,11 +16,9 @@
     /* animation: identifier .5s ease-in-out; */
     transform-style: preserve-3d;
     background-color: #003;
-    opacity: 100%;
     color: #fff;
     width: 208px;
     height: 320px;
-    /* position: absolute; */
     border-radius: 5%;
 }
 @keyframes identifier {
@@ -51,14 +49,12 @@
     text-align: center;
     width: 100%;
     color: rebeccapurple;
-    /* opacity: 100%; */
 }
 .description-bg-color {
     padding: 10px 10px;
     bottom: 0;
     border-radius: 5%;
     position: absolute;
-    /* opacity: 100% !important; */
     background-color: #0003;
     color: #fff;
 }
