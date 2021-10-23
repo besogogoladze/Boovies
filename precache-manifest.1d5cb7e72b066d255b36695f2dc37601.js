@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ec092a93d591e653d8bf2effb636630",
+    "revision": "29e0c5fa7a76f21156a55e688d19c317",
     "url": "/Boovies/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Boovies/static/css/2.9b167a4e.chunk.css"
   },
   {
-    "revision": "e18d12eeb0508abbad4c",
+    "revision": "d6a18f2aab8aa388ba3d",
     "url": "/Boovies/static/css/main.091eb38f.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Boovies/static/js/3.68bf328e.chunk.js"
   },
   {
-    "revision": "e18d12eeb0508abbad4c",
-    "url": "/Boovies/static/js/main.84f7ccdf.chunk.js"
+    "revision": "d6a18f2aab8aa388ba3d",
+    "url": "/Boovies/static/js/main.83c10786.chunk.js"
   },
   {
     "revision": "3229ced33c5eda96bc8e",
