@@ -38,7 +38,7 @@ function ListOfProducts() {
                 <Button 
                     className="color"
                     component={Link}
-                    to={'/MoviesList/' + (page - 1)}
+                    to={'/Boovies/MoviesList/' + (page - 1)}
                     disabled={page <= 1}
                     aria-disabled="true"
                 >
@@ -47,7 +47,7 @@ function ListOfProducts() {
                 <Button
                     className={`disabled === true ? "color" : "color"`}
                     component={Link}
-                    to={'/MoviesList/' + (page + 1)}
+                    to={'/Boovies/MoviesList/' + (page + 1)}
                     disabled={page >= totalPages}
                 >
                     შემდეგი
