@@ -20,7 +20,7 @@ function Home() {
     }, [])
     return (
         <div>
-            <Section1 props={items, itemsThree} className="d-flex justify-content-center" />
+            <Section1 props={items} itemsThree={itemsThree} className="d-flex justify-content-center" />
             <Section2 props={items}/>
         </div>
     )

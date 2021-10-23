@@ -5,7 +5,7 @@ import './style.css'
 
 function Section1({props, itemsThree}) {
 
-    
+    let t = itemsThree.map((t) => t)
     let i = props.map((i) => i)
 
     let firstObjectValue = " ";
@@ -46,7 +46,7 @@ function Section1({props, itemsThree}) {
                 </div>
                 <div className="shadow-lg p-3 bg-dark rounded w-50">
                     <div className="border border-3 border-success">
-                        <Carousel key={ID} className="heigh-500">
+                        <Carousel key={t} className="heigh-500">
                             {
                                 itemsThree.map(i =>
                                     <Carousel.Item key={i.id} className="text-align-webkit-center">
