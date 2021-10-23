@@ -8,7 +8,7 @@ function NavBar() {
             <nav>
                 <ul>
                     <li>
-                        <NavLink className="mr-15" exact to="/">Home</NavLink>
+                        <NavLink className="mr-15" exact to="/Boovies">Home</NavLink>
                     </li>
                     <li>
                         <NavLink className="mr-15" exact to="/MoviesList">Movies</NavLink>
