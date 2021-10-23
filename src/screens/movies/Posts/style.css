@@ -45,7 +45,7 @@
 }
 .absolute {
     position: absolute;
-    opacity: 49% !important;
+    /*opacity: 49% !important;*/
 }
 .text-align-center {
     text-align: center;
