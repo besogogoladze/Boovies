@@ -18,9 +18,9 @@ function App() {
         <Header/>
         <Switch>
           <Route path="/Boovies" exact component={Home} />
-          <Route path="/MoviesList/:page?" exact component={Movies} />
-          <Route path="/Movies/:id" component={User} />
-          <Route path="/Search/:page?" exact component= {Search}/>
+          <Route path="/Boovies/MoviesList/:page?" exact component={Movies} />
+          <Route path="/Boovies/Movies/:id" component={User} />
+          <Route path="/Boovies/Search/:page?" exact component= {Search}/>
         </Switch>
       </Router>
     </>

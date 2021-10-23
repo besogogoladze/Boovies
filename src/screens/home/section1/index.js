@@ -28,11 +28,10 @@ function Section1({props}) {
     const objects = props.slice(0, size)
     return (
         <div id="homeSection1-1" className="w-100 mx-auto pt-5 pb-5">
-            asdgasdgsdgsdgsdg
             <div className="d-flex justify-content-around">
                 <div className="shadow-lg p-3 bg-dark rounded h-fit">
                     <div className="border border-3 border-success">
-                        <Link to={`/Movies/${i[index].id}`}>
+                        <Link to={`/Boovies/Movies/${i[index].id}`}>
                             <div className="p-3">
                                 <h1 className="text-light">Movie of the day 👇</h1>
                                 <div className="card border-0">
@@ -51,7 +50,7 @@ function Section1({props}) {
                             {
                                 objects.map(i =>
                                     <Carousel.Item key={i.id} className="text-align-webkit-center">
-                                        <Link to={`/Movies/${i.id}`}>
+                                        <Link to={`/Boovies/Movies/${i.id}`}>
                                             <img
                                                 className="d-block heigh-500 w-100 zoom"
                                                 src={i.image}
@@ -70,7 +69,7 @@ function Section1({props}) {
                 </div>
                 <div className="shadow-lg p-3 bg-dark rounded h-fit">
                     <div className="border border-3 border-success">
-                        <Link to={`/Movies/${i[index].id}`}>
+                        <Link to={`/Boovies/Movies/${i[index].id}`}>
                                 <div className="p-3">
                                     <h1 className="text-light">The most watched 👇</h1>
                                     <div className="card border-0">

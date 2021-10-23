@@ -13,7 +13,7 @@ function Posts({posts}) {
         <div id="posts" className="d-inline-flex flex-wrap gap-5 w-100 container mx-auto">
             {posts.map((option) => 
                 <div key={option.id}>
-                    <Link className="color " key={option.id} to={`/Movies/${option.id}`}>
+                    <Link className="color " key={option.id} to={`/Boovies/Movies/${option.id}`}>
                         <div className="description">
                             <div className="description-toHide">
                                 <img className="postImg w-100 h-320px border-radius-5" alt={option.title + " error "} src={option.image}/>
