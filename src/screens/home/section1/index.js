@@ -3,7 +3,7 @@ import { Carousel } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import './style.css'
 
-function Section1({props}) {
+function Section1({props, itemsThree}) {
 
     
     let i = props.map((i) => i)
@@ -48,7 +48,7 @@ function Section1({props}) {
                     <div className="border border-3 border-success">
                         <Carousel key={ID} className="heigh-500">
                             {
-                                objects.map(i =>
+                                itemsThree.map(i =>
                                     <Carousel.Item key={i.id} className="text-align-webkit-center">
                                         <Link to={`/Boovies/Movies/${i.id}`}>
                                             <img

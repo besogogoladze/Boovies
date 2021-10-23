@@ -112,5 +112,31 @@
             "video": "//ok.ru/videoembed/2800529443425",
             "description":"მაშინ, როდესაც ყველა ფირქობდა რომ განკითხვის ღამე დასრულდა და ჩვეულებრივ ცხოვრებას დაუბრუდნენ, ყველაფერი ახლიდან იწყება და განკითხვის ღამე ამჯერად სამუდამოდ გრძელდება."
         }
+    ],
+    "top3Films": [
+        {
+            "title": "The Shawshank Redemption",
+            "year": 1994,
+            "id": 1,
+            "image": "https://gioggg.ge/uploads/posts/2020-08/1596639732_the-gangster-the-cop-the-devil-background.jpg",
+            "video": "//ok.ru/videoembed/2800529443425",
+            "description":"მაშინ, როდესაც ყველა ფირქობდა რომ განკითხვის ღამე დასრულდა და ჩვეულებრივ ცხოვრებას დაუბრუდნენ, ყველაფერი ახლიდან იწყება და განკითხვის ღამე ამჯერად სამუდამოდ გრძელდება."
+        },
+        {
+            "title": "The Shawshank Redemption",
+            "year": 1994,
+            "id": 1,
+            "image": "https://gioggg.ge/uploads/posts/2020-08/1596639732_the-gangster-the-cop-the-devil-background.jpg",
+            "video": "//ok.ru/videoembed/2800529443425",
+            "description":"მაშინ, როდესაც ყველა ფირქობდა რომ განკითხვის ღამე დასრულდა და ჩვეულებრივ ცხოვრებას დაუბრუდნენ, ყველაფერი ახლიდან იწყება და განკითხვის ღამე ამჯერად სამუდამოდ გრძელდება."
+        },
+        {
+            "title": "The Shawshank Redemption",
+            "year": 1994,
+            "id": 1,
+            "image": "https://gioggg.ge/uploads/posts/2020-08/1596639732_the-gangster-the-cop-the-devil-background.jpg",
+            "video": "//ok.ru/videoembed/2800529443425",
+            "description":"მაშინ, როდესაც ყველა ფირქობდა რომ განკითხვის ღამე დასრულდა და ჩვეულებრივ ცხოვრებას დაუბრუდნენ, ყველაფერი ახლიდან იწყება და განკითხვის ღამე ამჯერად სამუდამოდ გრძელდება."
+        }
     ]
 }
