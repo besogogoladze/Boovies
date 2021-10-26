@@ -20,7 +20,8 @@ function Header() {
     return (
         <div className="header">
             <NavLink exact to="/Boovies">
-                <img src={Logo} alt="logo" className="logo"/>
+                {/* <img src={Logo} alt="logo" className="logo"/> */}
+                <h1><span className='text-success fs-1'>Boo</span>vies</h1>
             </NavLink>
             <div className="navbar-search">
                 <NavBar />
