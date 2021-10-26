@@ -1,4 +1,4 @@
-import React, { Fragment, useLayoutEffect, useState } from 'react';
+import React, { useLayoutEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
@@ -36,8 +36,6 @@ function ScrollPlayGround({props}) {
         return screenSize;
       }
       
-      /// Example
-      
         const [width] = useMediaQuery();
         const settings = {
             dots: false,
@@ -74,64 +72,6 @@ function ScrollPlayGround({props}) {
             slidesToShow: 5,
             slidesToScroll: 1
         }
-
-        // function FullScreen1(props){
-        //     return <div className="bg-dark rounded-3 p-5">
-        //                 <Slider {...settings5}>
-        //                     {
-        //                         props.map((option) => 
-        //                             <div key={option.id} className="m-1">
-        //                                 <Link className="color" key={option.id} to={`/Boovies/Movies/${option.id}`}>
-        //                                     <div className="description">
-        //                                         <div className="description-toHide">
-        //                                             <img className="postImg w-100 h-320px border-radius-5" alt={option.title + " error "} src={option.image}/>
-        //                                         </div>
-        //                                         <div className="description-hidden">
-        //                                             <img className="w-100 h-320px absolute border-radius-5" alt={option.title + " error "} src={option.image}/>
-        //                                             <h1>{option.title}</h1>
-        //                                             <div className="d-flex flex-column gap-3 description-bg-color from-down">
-        //                                                 <h4>Description:</h4>
-        //                                                 <h6>{option.description.slice(0, 100) + "..."}</h6>
-        //                                                 <p>{option.year}</p>
-        //                                             </div>
-        //                                         </div>
-        //                                     </div>
-        //                                 </Link>
-        //                             </div>
-        //                         )
-        //                     }
-        //                 </Slider>
-        //             </div>
-        // }
-        // function FullScreen2(props){
-        //     return <div className="bg-dark rounded-3 p-5">
-        //                 <Slider {...settings2}>
-        //                     {
-        //                         props.map((option) => 
-        //                             <div key={option.id} className="m-1">
-        //                                 <Link className="color" key={option.id} to={`/Boovies/Movies/${option.id}`}>
-        //                                     <div className="description">
-        //                                         <div className="description-toHide">
-        //                                             <img className="postImg w-100 h-320px border-radius-5" alt={option.title + " error "} src={option.image}/>
-        //                                         </div>
-        //                                         <div className="description-hidden">
-        //                                             <img className="w-100 h-320px absolute border-radius-5" alt={option.title + " error "} src={option.image}/>
-        //                                             <h1>{option.title}</h1>
-        //                                             <div className="d-flex flex-column gap-3 description-bg-color from-down">
-        //                                                 <h4>Description:</h4>
-        //                                                 <h6>{option.description.slice(0, 100) + "..."}</h6>
-        //                                                 <p>{option.year}</p>
-        //                                             </div>
-        //                                         </div>
-        //                                     </div>
-        //                                 </Link>
-        //                             </div>
-        //                         )
-        //                     }
-        //                 </Slider>
-        //             </div>
-        // }
-
 
         // function Greeting(props) {
         //     // const size = props.size;
