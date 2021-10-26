@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "10a7f0429a569fe4f27e0bce6a0ccd4a",
+    "revision": "71d6daa0949c508e1b47776f4f4eeb78",
     "url": "/Boovies/index.html"
   },
   {
-    "revision": "480d2175feca1846aebf",
+    "revision": "ae46d845a018842209d1",
     "url": "/Boovies/static/css/2.9b167a4e.chunk.css"
   },
   {
-    "revision": "6e7d5f51d38a20ab8d8b",
-    "url": "/Boovies/static/css/main.54ac168e.chunk.css"
+    "revision": "48157a3e67250634f4b2",
+    "url": "/Boovies/static/css/main.1a31cca8.chunk.css"
   },
   {
-    "revision": "480d2175feca1846aebf",
-    "url": "/Boovies/static/js/2.56a5313a.chunk.js"
+    "revision": "ae46d845a018842209d1",
+    "url": "/Boovies/static/js/2.350e35f4.chunk.js"
   },
   {
     "revision": "04650511d6c69265254aaa0c18f0d8de",
-    "url": "/Boovies/static/js/2.56a5313a.chunk.js.LICENSE.txt"
+    "url": "/Boovies/static/js/2.350e35f4.chunk.js.LICENSE.txt"
   },
   {
     "revision": "8b087693d5be68123f2c",
     "url": "/Boovies/static/js/3.68bf328e.chunk.js"
   },
   {
-    "revision": "6e7d5f51d38a20ab8d8b",
-    "url": "/Boovies/static/js/main.bcbfd5ef.chunk.js"
+    "revision": "48157a3e67250634f4b2",
+    "url": "/Boovies/static/js/main.9690e710.chunk.js"
   },
   {
     "revision": "3229ced33c5eda96bc8e",

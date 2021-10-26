@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/Boovies/static/css/main.54ac168e.chunk.css",
-    "main.js": "/Boovies/static/js/main.bcbfd5ef.chunk.js",
-    "main.js.map": "/Boovies/static/js/main.bcbfd5ef.chunk.js.map",
+    "main.css": "/Boovies/static/css/main.1a31cca8.chunk.css",
+    "main.js": "/Boovies/static/js/main.9690e710.chunk.js",
+    "main.js.map": "/Boovies/static/js/main.9690e710.chunk.js.map",
     "runtime-main.js": "/Boovies/static/js/runtime-main.7f79e204.js",
     "runtime-main.js.map": "/Boovies/static/js/runtime-main.7f79e204.js.map",
     "static/css/2.9b167a4e.chunk.css": "/Boovies/static/css/2.9b167a4e.chunk.css",
-    "static/js/2.56a5313a.chunk.js": "/Boovies/static/js/2.56a5313a.chunk.js",
-    "static/js/2.56a5313a.chunk.js.map": "/Boovies/static/js/2.56a5313a.chunk.js.map",
+    "static/js/2.350e35f4.chunk.js": "/Boovies/static/js/2.350e35f4.chunk.js",
+    "static/js/2.350e35f4.chunk.js.map": "/Boovies/static/js/2.350e35f4.chunk.js.map",
     "static/js/3.68bf328e.chunk.js": "/Boovies/static/js/3.68bf328e.chunk.js",
     "static/js/3.68bf328e.chunk.js.map": "/Boovies/static/js/3.68bf328e.chunk.js.map",
     "index.html": "/Boovies/index.html",
-    "precache-manifest.0b78db75eb1a72f6746a3c61fd1b6280.js": "/Boovies/precache-manifest.0b78db75eb1a72f6746a3c61fd1b6280.js",
+    "precache-manifest.82cbf4832bec7d987a9344a9de637143.js": "/Boovies/precache-manifest.82cbf4832bec7d987a9344a9de637143.js",
     "service-worker.js": "/Boovies/service-worker.js",
     "static/css/2.9b167a4e.chunk.css.map": "/Boovies/static/css/2.9b167a4e.chunk.css.map",
-    "static/css/main.54ac168e.chunk.css.map": "/Boovies/static/css/main.54ac168e.chunk.css.map",
-    "static/js/2.56a5313a.chunk.js.LICENSE.txt": "/Boovies/static/js/2.56a5313a.chunk.js.LICENSE.txt",
+    "static/css/main.1a31cca8.chunk.css.map": "/Boovies/static/css/main.1a31cca8.chunk.css.map",
+    "static/js/2.350e35f4.chunk.js.LICENSE.txt": "/Boovies/static/js/2.350e35f4.chunk.js.LICENSE.txt",
     "static/media/Logo.jpg": "/Boovies/static/media/Logo.afab6a33.jpg",
     "static/media/slick-theme.css": "/Boovies/static/media/slick.f97e3bbf.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7f79e204.js",
     "static/css/2.9b167a4e.chunk.css",
-    "static/js/2.56a5313a.chunk.js",
-    "static/css/main.54ac168e.chunk.css",
-    "static/js/main.bcbfd5ef.chunk.js"
+    "static/js/2.350e35f4.chunk.js",
+    "static/css/main.1a31cca8.chunk.css",
+    "static/js/main.9690e710.chunk.js"
   ]
 }
