@@ -1,6 +1,3 @@
 .slick-prev:before, .slick-next:before {
     color: #198754 !important;
 }
-.slick-track {
-    transform: translate3d(0px, 0px, 0px) !important;
-}
