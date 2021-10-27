@@ -9,11 +9,11 @@ function Home() {
     const [itemsThree, setItemsThree] = useState([]);
     
     useEffect(() => {
-        axios.get('https://us-central1-boovies.cloudfunctions.net/gettopFilms')
+        axios.get('http://localhost:3000/top100Films?')
         .then(response => 
             setItems(response.data)
         );
-        axios.get('https://us-central1-boovies.cloudfunctions.net/gettopFilms')
+        axios.get('http://localhost:3000/top3Films')
         .then(response => 
             setItemsThree(response.data)
         )
