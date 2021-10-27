@@ -17,7 +17,7 @@ function ListOfProducts() {
         const totalPages = Math.ceil(totalPosts / limiT);
     
         useEffect(() => {
-            axios.get('http://localhost:3000/top100Films?', {
+            axios.get('https://us-central1-boovies.cloudfunctions.net/gettopFilms', {
                 params : {
                     _page: page,
                     _limit: 10

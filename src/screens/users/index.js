@@ -28,7 +28,7 @@ function User({match}) {
     });
 
     const fetchItem = async () => {
-        const fetchItem = await fetch(`http://localhost:3000/top100Films/${match.params.id}`)
+        const fetchItem = await fetch(`https://us-central1-boovies.cloudfunctions.net/gettopFilms${match.params.id}`)
         const item = await fetchItem.json()
         setItem(item)
     }
